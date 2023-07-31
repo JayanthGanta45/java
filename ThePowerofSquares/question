@@ -1,0 +1,34 @@
+Question: 8
+ Problem: The Power of Squares
+
+
+
+You are a software developer at a gaming company. The company is developing a new game called "The Power of Squares". In this game, players have to square the number provided to advance to the next level. Your task is to create a function that will calculate the square of the number provided.
+
+
+
+Function:
+
+
+
+public static int squareNumber(int num);
+
+
+
+
+
+Inputs:
+
+
+
+The function squareNumber(int num) will receive one parameter:
+
+- num : an integer which represents the number that the player has to square.
+
+
+
+Outputs:
+
+
+
+The function will return an integer - the square of num.

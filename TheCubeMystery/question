@@ -1,0 +1,55 @@
+Question: 9
+
+Problem: The Cube Mystery
+
+
+
+You are a software engineer developing an innovative educational game for kids. This game helps kids understand the concept of cubes in a fun and interactive way. In one of the stages, the kids are given a number and they have to find out the cube of that number to solve a mystery. Your task is to create a function that will calculate the cube of a given number.
+
+
+
+Function:
+
+
+
+public static int cubeNumber(int num);
+
+
+
+
+
+Inputs:
+
+
+
+The function cubeNumber(int num) will receive one parameter:
+
+- num : an integer which represents the number that the player has to cube.
+
+
+
+Outputs:
+
+
+
+The function will return an integer - the cube of num.
+
+
+
+Example:
+
+
+
+Sample Input:
+
+
+
+cubeNumber(3);
+
+
+
+Sample Output:
+
+
+
+27
