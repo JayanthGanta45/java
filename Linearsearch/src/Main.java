@@ -19,7 +19,7 @@ public class Main {
 
             }
 
-            System.out.println("Enter target to serach");
+            System.out.println("Enter target to search");
 
             int key=scan.nextInt();
 
